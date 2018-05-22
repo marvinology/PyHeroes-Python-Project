@@ -1,0 +1,6 @@
+info = {"name" : "Marvin", "age":12, "food":["hamburger","chicken","cereal"]}
+
+for key in infoself:
+    print ("key")
+
+print info["name"][0]
